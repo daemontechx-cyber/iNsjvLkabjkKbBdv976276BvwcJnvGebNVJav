@@ -1,40 +1,158 @@
 [
-  {"email": "nuriksan1427@gmail.com", "app_password": "bvul jwfo fszl cnvu"},
-  {"email": "bahbinarabian@gmail.com", "app_password": "rmou cxri moaq fgwn"},
-  {"email": "taniutt8@gmail.com", "app_password": "alld sbjh hvri diyh"},
-  {"email": "sarahameliaa781@gmail.com", "app_password": "cheq vhtt xjbv rilj"},
-  {"email": "clearodmkr@gmail.com", "app_password": "yiwx uyhx sflf ylha"},
-  {"email": "oxiarch2977@gmail.com", "app_password": "nwwy smgr ksbs ljer"},
-  {"email": "cleeeooo2@gmail.com", "app_password": "wicn zfff cpao rjhc"},
-  {"email": "blackboxai92@gmail.com", "app_password": "kxxa ixpj lnjh jlhm"},
-  {"email": "kinikusadarr@gmail.com", "app_password": "efgw bzqu ukow sgoi"},
-  {"email": "kugarider81@gmail.com", "app_password": "tbrh swfk humm ejse"},
-  {"email": "ranntssndr@gmail.com", "app_password": "zztd vuow eqcm qviv"},
-  {"email": "sigmamewing1232@gmail.com", "app_password": "trzs dett smbl iykw"},
-  {"email": "decapixxel@gmail.com", "app_password": "mlin jrak tqee buml"},
-  {"email": "spamreportuntukproyek@gmail.com", "app_password": "rcjb wtpf cpmb zqmc"},
-  {"email": "byexeoriginal@gmail.com", "app_password": "ppzg xwxb flap yawa"},
-  {"email": "reggaehenne@gmail.com", "app_password": "twwn rwht nmsh ieos"},
-  {"email": "pinespineapple378@gmail.com", "app_password": "fegf veei ihca alhc"},
-  {"email": "serverthailand07082007@gmail.com", "app_password": "rbhw ovgb kqnc xnuo"},
-  {"email": "dwiputraprivasi@gmail.com@gmail.com", "app_password": "wgbl tgaw rysp pwxu"},
-  {"email": "pikxyzz2010@gmail.com", "app_password": "ubym sqgq rrzb jkme"},
-  {"email": "mlbbz1006@gmail.com", "app_password": "aqlw svlc xkht bcia"},
-  {"email": "febbxd61@gmail.com", "app_password": "vjaj nyva iece ecvt"},
-  {"email": "byeexeeembut@gmail.com", "app_password": "upfb dtyv vwgc wgpt"},
-  {"email": "gufronjah@gmail.com", "app_password": "plsk misj djwp ftto"},
-  {"email": "arifdwicahyono39@gmail.com", "app_password": "tuca toim ldsr rsew"},
-  {"email": "akunprivasi296@gmail.com", "app_password": "keic zkla lvrb mzxx"},
-  {"email": "pikxyzz2010@gmail.com", "app_password": "ejxt vfee cfdh eevv"},
-  {"email": "clayinheree@gmail.com", "app_password": "opbf girm hwai ftgm"},
-  {"email": "adrianardhiaksa86@gmail.com", "app_password": "vaht rsgu vxvk cbox"},
-  {"email": "shoppepaylater62@gmail.com", "app_password": "vxgg jigx gryl ieqm"},
-  {"email": "akunsgreaper020@gmail.com", "app_password": "fgfb bwsp yhjz hkug"},
-  {"email": "politronsharp478@gmail.com", "app_password": "xbjf lkbo husf bmgc"},
-  {"email": "istikomah202026@gmail.com", "app_password": "xbbs swdj csfv kzjm"},
-  {"email": "rerolns15@gmail.com", "app_password": "awpa jyyy qttr gyqq"},
-  {"email": "nurrafkialfi@gmail.com", "app_password": "roie ejwu kfgn ydka"},
-  {"email": "Ikigalang41@gmail.com", "app_password": "mcen eqjm pnmd nmqj"},
-  {"email": "usavpned1945@gmail.com", "app_password": "ccof fmuq czsy wdif"},
-  {"email": "larcicak@gmail.com", "app_password": "cgrx gaxb wani ggay"}
+  {
+    "email": "nuriksan1427@gmail.com",
+    "app_password": "bvul jwfo fszl cnvu"
+  },
+  {
+    "email": "bahbinarabian@gmail.com",
+    "app_password": "rmou cxri moaq fgwn"
+  },
+  {
+    "email": "taniutt8@gmail.com",
+    "app_password": "alld sbjh hvri diyh"
+  },
+  {
+    "email": "sarahameliaa781@gmail.com",
+    "app_password": "cheq vhtt xjbv rilj"
+  },
+  {
+    "email": "clearodmkr@gmail.com",
+    "app_password": "yiwx uyhx sflf ylha"
+  },
+  {
+    "email": "oxiarch2977@gmail.com",
+    "app_password": "nwwy smgr ksbs ljer"
+  },
+  {
+    "email": "cleeeooo2@gmail.com",
+    "app_password": "wicn zfff cpao rjhc"
+  },
+  {
+    "email": "blackboxai92@gmail.com",
+    "app_password": "kxxa ixpj lnjh jlhm"
+  },
+  {
+    "email": "kinikusadarr@gmail.com",
+    "app_password": "efgw bzqu ukow sgoi"
+  },
+  {
+    "email": "kugarider81@gmail.com",
+    "app_password": "tbrh swfk humm ejse"
+  },
+  {
+    "email": "ranntssndr@gmail.com",
+    "app_password": "zztd vuow eqcm qviv"
+  },
+  {
+    "email": "sigmamewing1232@gmail.com",
+    "app_password": "trzs dett smbl iykw"
+  },
+  {
+    "email": "decapixxel@gmail.com",
+    "app_password": "mlin jrak tqee buml"
+  },
+  {
+    "email": "spamreportuntukproyek@gmail.com",
+    "app_password": "rcjb wtpf cpmb zqmc"
+  },
+  {
+    "email": "byexeoriginal@gmail.com",
+    "app_password": "ppzg xwxb flap yawa"
+  },
+  {
+    "email": "reggaehenne@gmail.com",
+    "app_password": "twwn rwht nmsh ieos"
+  },
+  {
+    "email": "pinespineapple378@gmail.com",
+    "app_password": "fegf veei ihca alhc"
+  },
+  {
+    "email": "serverthailand07082007@gmail.com",
+    "app_password": "rbhw ovgb kqnc xnuo"
+  },
+  {
+    "email": "dwiputraprivasi@gmail.com@gmail.com",
+    "app_password": "wgbl tgaw rysp pwxu"
+  },
+  {
+    "email": "pikxyzz2010@gmail.com",
+    "app_password": "ubym sqgq rrzb jkme"
+  },
+  {
+    "email": "mlbbz1006@gmail.com",
+    "app_password": "aqlw svlc xkht bcia"
+  },
+  {
+    "email": "febbxd61@gmail.com",
+    "app_password": "vjaj nyva iece ecvt"
+  },
+  {
+    "email": "byeexeeembut@gmail.com",
+    "app_password": "upfb dtyv vwgc wgpt"
+  },
+  {
+    "email": "gufronjah@gmail.com",
+    "app_password": "plsk misj djwp ftto"
+  },
+  {
+    "email": "arifdwicahyono39@gmail.com",
+    "app_password": "tuca toim ldsr rsew"
+  },
+  {
+    "email": "akunprivasi296@gmail.com",
+    "app_password": "keic zkla lvrb mzxx"
+  },
+  {
+    "email": "pikxyzz2010@gmail.com",
+    "app_password": "ejxt vfee cfdh eevv"
+  },
+  {
+    "email": "clayinheree@gmail.com",
+    "app_password": "opbf girm hwai ftgm"
+  },
+  {
+    "email": "adrianardhiaksa86@gmail.com",
+    "app_password": "vaht rsgu vxvk cbox"
+  },
+  {
+    "email": "shoppepaylater62@gmail.com",
+    "app_password": "vxgg jigx gryl ieqm"
+  },
+  {
+    "email": "akunsgreaper020@gmail.com",
+    "app_password": "fgfb bwsp yhjz hkug"
+  },
+  {
+    "email": "politronsharp478@gmail.com",
+    "app_password": "xbjf lkbo husf bmgc"
+  },
+  {
+    "email": "istikomah202026@gmail.com",
+    "app_password": "xbbs swdj csfv kzjm"
+  },
+  {
+    "email": "rerolns15@gmail.com",
+    "app_password": "awpa jyyy qttr gyqq"
+  },
+  {
+    "email": "nurrafkialfi@gmail.com",
+    "app_password": "roie ejwu kfgn ydka"
+  },
+  {
+    "email": "Ikigalang41@gmail.com",
+    "app_password": "mcen eqjm pnmd nmqj"
+  },
+  {
+    "email": "usavpned1945@gmail.com",
+    "app_password": "ccof fmuq czsy wdif"
+  },
+  {
+    "email": "larcicak@gmail.com",
+    "app_password": "cgrx gaxb wani ggay"
+  },
+  {
+    "email": "yaelahcih1@gmail.com",
+    "app_password": "wucg nina hupk qofx"
+  }
 ]
